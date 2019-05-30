@@ -1,2 +1,2 @@
-n=input()
-print(n)
+nmo=input()
+print(nmo)
