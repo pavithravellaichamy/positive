@@ -1,0 +1,9 @@
+x=list(map(str,input().split()))
+a=x[0]
+b=x[1]
+a1=len(a)
+b1=len(b)
+if(a1>b1):
+    print(a)
+else:
+    print(b)
