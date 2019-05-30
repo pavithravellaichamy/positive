@@ -1,2 +1,2 @@
-xy=input()
-print(len(xy))
+xyz1=input()
+print(len(xyz1))
