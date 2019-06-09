@@ -1,2 +1,2 @@
-x=int(input())
-print(x+273)
+xy1=int(input())
+print(xy1+273)
