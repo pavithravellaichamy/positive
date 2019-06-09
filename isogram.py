@@ -5,6 +5,6 @@ for i in range(0,len(x)):
         if(x[i]==x[j]):
             count=count+1
 if count==0:
-    print("yes")
+    print("Yes")
 else:
-    print("no")
+    print("No")
