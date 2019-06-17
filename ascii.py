@@ -1,1 +1,2 @@
-print(ord(input()))
+xy1=input()
+print(ord(xy1))
